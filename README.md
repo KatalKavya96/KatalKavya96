@@ -90,15 +90,6 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="1" />
 <br> <!-- Adds additional space below the line -->
 
-
-
-<h1 align="left">🦖 Holopin</h1>
-
-[![](https://holopin.me/kavyakatal96)](https://holopin.io/@kavyakatal96)
-
-<p align="center">Check out my badges on Holopin and stay tuned for more upcoming achievements!</p>
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">Statistics</h3>
 
@@ -114,6 +105,13 @@
 <br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+
+
+<h1 align="left">🦖 Holopin</h1>
+
+[![](https://holopin.me/kavyakatal96)](https://holopin.io/@kavyakatal96)
+
+<p align="center">Check out my badges on Holopin and stay tuned for more upcoming achievements!</p>
 
 <h2 align="center">Thank You for Visiting and Supporting 🫶</h2>
 
