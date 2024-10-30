@@ -64,6 +64,33 @@
     <img src="https://github-readme-stats.vercel.app/api?username=KatalKavya96&theme=bear&show_icons=true&hide_border=true&count_private=true" width="50%"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=KatalKavya96&theme=bear&hide_border=true" width="45%"/>
 </a>
+<!-- Progress Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KatalKavya96&theme=synthwave-84&true&hide_border=true" />
+  </div>
+
+<br>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg) 
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatalKavya96&layout=compact&theme=highcontrast" alt="Top Languages" />
+<br><br><br>
+
+
+
+<br><br><br><br><br><br>
+
+# 📊 LeetCode Stats
+
+<br> <!-- Adds vertical space above the stats -->
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/KavyaKatal96?theme=dark&font=Roboto&ext=heatmap)
+
+<br> <!-- Adds vertical space below the stats -->
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="1" />
+<br> <!-- Adds additional space below the line -->
+
+
 
 <h1 align="left">🦖 Holopin</h1>
 
@@ -71,6 +98,24 @@
 
 <p align="center">Check out my badges on Holopin and stay tuned for more upcoming achievements!</p>
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">Statistics</h3>
+
+<div align="center">
+    <a href="https://github.com/KatalKavya96">
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KatalKavya96&theme=highcontrast" height="180em" />
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KatalKavya96&theme=highcontrast" height="180em" />
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KatalKavya96&theme=highcontrast" height="180em" />
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KatalKavya96&theme=highcontrast" height="180em" />
+    </a>
+</div>
+
+<br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+
 <h2 align="center">Thank You for Visiting and Supporting 🫶</h2>
+
 
 
