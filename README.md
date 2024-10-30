@@ -68,7 +68,7 @@
 <h1 align="left">🦖 Holopin</h1>
 
 <p align="center">
-    <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm2qacbsh215400cl6tlyha8hy" target="_blank">
+    <a href="https://www.holopin.io/@KatalKavya96" target="_blank">
         <img src="https://holopin.me/KatalKavya96" alt="KatalKavya96's Holopin Badges" width="100%" style="max-width: 600px;"/>
     </a>
 </p>
