@@ -12,7 +12,13 @@
 <a href="https://twitter.com/RaniAdhikari1" target="blank"><img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="60" /></a>
 <a href="https://www.linkedin.com/in/kavya-katal-64260a318/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" /></a>
 <a href="https://www.instagram.com/kavkatal_521/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" /></a>
+<a href="https://www.hackerrank.com/profile/kavyakatal09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Kavya Katal" height="45" width="50" /></a>
+<a href="https://www.codechef.com/users/kavyakatal09" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codechef.svg" alt="kavyakatal09" height="45" width="50" /></a>
+<br><br>
+<a href="https://leetcode.com/u/KavyaKatal96/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" height="40" alt="LeetCode Badge"/></a>
 </p>
+
 
 <!-- Live Viewer Count -->
 <p align="center"> 
@@ -26,14 +32,14 @@
 <!-- Live Image -->
 <img align='right' src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="250" height="350" />
 
-
+<!-- About Me -->
 <h1><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="45"> About Me</h1> 
 
 - First-year BTech student in CSE-DS with a passion for problem-solving and innovation
 - Frontend Developer focused on building intuitive and engaging user interfaces
 - Exploring Data Structures and Algorithms (DSA) in Python and C++ to deepen my problem-solving skills
 - 📫 Reach me at: kavyakatal09@gmail.com
-
+<!-- Languages and Tools -->
 <h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="38"> Languages and Tools</h1>
 
 <p align="left"> 
@@ -49,7 +55,7 @@
 
 <!-- End Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
+<!-- Github Stats -->
 <h1 align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Statistics </h1>
 
 
@@ -59,11 +65,12 @@
 </a>
 
 
-<!-- gg -->
+
 <a href="https://github.com/KatalKavya96/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=KatalKavya96&theme=bear&show_icons=true&hide_border=true&count_private=true" width="50%"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=KatalKavya96&theme=bear&hide_border=true" width="45%"/>
 </a>
+<br><br>
 <!-- Progress Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KatalKavya96&theme=synthwave-84&true&hide_border=true" />
@@ -78,18 +85,18 @@
 
 
 <br><br><br><br><br><br>
-
+<!-- Leetcode Segment -->
 # 📊 LeetCode Stats
 
-<br> <!-- Adds vertical space above the stats -->
+<br>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/KavyaKatal96?theme=dark&font=Roboto&ext=heatmap)
 
-<br> <!-- Adds vertical space below the stats -->
+<br> 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="1" />
-<br> <!-- Adds additional space below the line -->
-
+<br> 
+<!-- Statistics Segment -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">Statistics</h3>
 
@@ -106,12 +113,12 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
-
 <h1 align="left">🦖 Holopin</h1>
 
 [![](https://holopin.me/kavyakatal96)](https://holopin.io/@kavyakatal96)
 
 <p align="center">Check out my badges on Holopin and stay tuned for more upcoming achievements!</p>
+
 
 <h2 align="center">Thank You for Visiting and Supporting 🫶</h2>
 
