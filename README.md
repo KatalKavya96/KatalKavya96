@@ -76,24 +76,7 @@
 <h2 align="center">Upcoming Badges</h2>
 <p align="center">Check out my badges for Hacktoberfest 2024 and stay tuned for more upcoming achievements!</p>
 
-<!-- Leetcode Stats -->
-<a href="https://leetcode.com/KavyaKatal96/">
-    <img src="https://leetcode-stats-api.herokuapp.com/api/KavyaKatal96?theme=light" width="50%"/>
-    <img src="https://leetcode-streak-stats.herokuapp.com/?user=KavyaKatal96&theme=light" width="45%"/>
-</a>
-<!-- Hackerrank Badges -->
-<h1 align="left">
-    <img src="https://user-images.githubusercontent.com/74038190/271273309-63f57a25-9b65-47a4-8a5d-8fc1a3cc12c2.gif" width="45"> 
-    HackerRank Badges 
-</h1>
-<p align="center">
-    <a href="https://www.hackerrank.com/kavyakatal09">
-        <img width="100%" src="https://www.hackerrank.com/kavyakatal09/badges">
-    </a>
-</p>
 
-<h2 align="center">Upcoming Badges</h2>
-<p align="center">Stay tuned for more achievements as I work towards earning new badges on HackerRank!</p>
 
 <h2 align="center">Thank You for Visiting and Supporting 🫶</h2>
 
