@@ -67,12 +67,7 @@
 
 <h1 align="left">🦖 Holopin</h1>
 
-<p align="center">
-    <a href="https://www.holopin.io/@kavyakatal96#badges" target="_blank">
-        <img src="https://holopin.me/kavyakatal96" alt="KavyaKatal96's Holopin Badges" width="100%" style="max-width: 600px;"/>
-    </a>
-</p>
-
+[![](https://holopin.me/kavyakatal96)](https://holopin.io/@kavyakatal96)
 
 <p align="center">Check out my badges on Holopin and stay tuned for more upcoming achievements!</p>
 
