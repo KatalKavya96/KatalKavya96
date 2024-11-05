@@ -35,9 +35,9 @@
 <!-- About Me -->
 <h1><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="45"> About Me</h1> 
 
-- First-year BTech student in CSE-DS with a passion for problem-solving and innovation
-- Frontend Developer focused on building intuitive and engaging user interfaces
-- Exploring Data Structures and Algorithms (DSA) in Python and C++ to deepen my problem-solving skills
+- 👋 I'm Kavya, a first-year BTech CSE-DS student passionate about problem-solving and innovation.
+- 💻 Frontend Developer focused on creating intuitive user interfaces with HTML, CSS, JavaScript, and React.
+- 📚 Currently diving into Data Structures & Algorithms in Python and C++ to enhance my problem-solving skills.
 - 📫 Reach me at: kavyakatal09@gmail.com
 <!-- Languages and Tools -->
 <h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="38"> Languages and Tools</h1>
