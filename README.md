@@ -93,10 +93,10 @@
 
 ## Codeforces Stats
 - **Handle:** [KavyaKatal09](https://codeforces.com/profile/KavyaKatal09)
-- **Rating:** [Your Current Rating]
-- **Max Rating:** [Your Max Rating]
-- **Rank:** [Your Current Rank]
-- **Max Rank:** [Your Max Rank]
+- **Rating:** ![Current Rating](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=KavyaKatal09&label=Rating&query=$.result[0].rating&color=blue)
+- **Max Rating:** ![Max Rating](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=KavyaKatal09&label=Max%20Rating&query=$.result[0].maxRating&color=brightgreen)
+- **Rank:** ![Rank](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=KavyaKatal09&label=Rank&query=$.result[0].rank&color=yellow)
+- **Max Rank:** ![Max Rank](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=KavyaKatal09&label=Max%20Rank&query=$.result[0].maxRank&color=red)
 
 
 <!-- Statistics Segment -->
