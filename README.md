@@ -91,7 +91,13 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="1" />
 <br> 
 
-![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats/KavyaKatal09)
+## Codeforces Stats
+- **Handle:** [KavyaKatal09](https://codeforces.com/profile/KavyaKatal09)
+- **Rating:** [Your Current Rating]
+- **Max Rating:** [Your Max Rating]
+- **Rank:** [Your Current Rank]
+- **Max Rank:** [Your Max Rank]
+
 
 <!-- Statistics Segment -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
