@@ -90,6 +90,9 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="1" />
 <br> 
+
+![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats/kavyakatal09)
+
 <!-- Statistics Segment -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">Statistics</h3>
